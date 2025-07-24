@@ -37,5 +37,5 @@ Este projeto é um dashboard interativo de vendas, desenvolvido com [Streamlit](
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Randson-Webdesigner/Dashboard-01-Python.git)
 cd seu-repositorio
