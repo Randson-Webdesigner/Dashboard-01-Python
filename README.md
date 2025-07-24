@@ -1,3 +1,6 @@
+
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/d337e522-3a4a-4088-b7d8-3b3f4f1b8763" />
+
 # 📊 Dashboard de Vendas com Streamlit e Plotly
 
 Este projeto é um dashboard interativo de vendas, desenvolvido com [Streamlit](https://streamlit.io/) e [Plotly](https://plotly.com/python/), com layout moderno e responsivo que ocupa toda a largura da tela.
